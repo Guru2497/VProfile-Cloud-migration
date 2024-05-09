@@ -1,0 +1,6 @@
+ssh into VM by vagrant ssh
+1) download/create a .html/.css
+	wget/git clone from online
+	unzip
+2) copy/replace the website files in /var/www/html
+3) restart the apache2 services
